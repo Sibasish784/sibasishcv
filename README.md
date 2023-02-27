@@ -10,6 +10,3 @@ link of my web:-
 
 
 # https://sibasishpadhy.s3.ap-south-1.amazonaws.com/index.html
-
-
-# http://sibasishpadhy.website3.me/
